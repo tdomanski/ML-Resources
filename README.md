@@ -7,7 +7,7 @@ Google Colab - https://colab.research.google.com
 * NN/ML/Statistics/Linear Regression/Logistic Regression/Forests (StatQuest) - https://www.youtube.com/c/joshstarmer/
 * Genetic Algorithms (The Coding Train) - https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV
 * CNN/DL (Stanford University) - https://youtube.com/playlist?list=PLf7L7Kg8_FNxHATtLwDceyh72QQL9pvpQ
-* Data Science Concepts/basics (ritvikmath) - https://www.youtube.com/c/ritvikmath/
+* Data Science Concepts/Basics (ritvikmath) - https://www.youtube.com/c/ritvikmath/
 # Books
 * Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition - Aurélien Géron 
 # Additional Resources
